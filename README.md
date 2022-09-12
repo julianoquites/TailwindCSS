@@ -1,2 +1,2 @@
 # TailwindCSS
- Basics studies using TailwindCSS
+ Basic studies using TailwindCSS
